@@ -1,0 +1,29 @@
+#include <stdbool.h>
+
+float currency(float money, char type, bool convert);
+void dollarmenu();
+void kenmenu();
+void canmenu();
+void chinmenu();
+void euromenu();
+void poundmenu();
+void randmenu();
+void rupeemenu();
+void ausmenu();
+void riyadhmenu();
+void metermenu();
+void centimetermenu();
+void kilometermenu();
+void milesmenu();
+void inchesmenu();
+void kelvinmenu();
+void celciusmenu();
+void fahreinheitmenu();
+void cubicmenu();
+void decimenu();
+void litremenu();
+void gallonmenu();
+void tonnemenu();
+void kilogrammenu();
+void grammenu();
+void lbmenu();
